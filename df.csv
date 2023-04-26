@@ -1,0 +1,44 @@
+,Nombres,Apellidos,Edad,Grado de estudios,Formación,Gerencia,Lenguajes de programación,E-mail,Antigüedad,Index
+0,Alberto,GC,54,Maestría,Ingeniería,GHSPI,C,acancino@imp.mx,24,0
+1,JOSE ALBERTO,MARTINEZ FARFAN,48,Maestría,Ingeniería,HyS,Matlab,jamtnz@imp.mx,21,1
+2,Joaquin,Hernández Pérez,59,Maestría,Física,GIRA,"Fortran, C, C++",rhperez@imp.mx,22,2
+3,Marytere,Gutierrez Guevara,40,Maestría,Ingeniería,GC,Fortran,mtgutier@imp.mx,14,3
+4,Ana Luisa,Hernández Martínez,51,Licenciatura,MAC,GC,"c++, c#, java",alhernan@imp.mx,28,4
+5,Mario Eduardo,Ramos,54,Maestría,Ciencias de la computación,IY,"C#, VB.NET, c++, Fortran, Python, R",mramos@imp.mx,31,5
+6,Rossana,Vai,57,Maestría,Ingeniería,DyM,"fortran, c++",rvai@imp.mx,23,6
+7,Norma,García,56,Maestría,Ingeniería,IY,Fortran y Visual Basic,ngarcia@gmail.com,21,7
+8,Federico,G. Coria,44,Doctorado,Ingeniería,PyT,Fortran,fgcoria@imp.mx,7,8
+9,Juan Leon,Leon Francisco,35,Doctorado,Geólogo,Geo,Ninguno,jmleon@imp.mx,8,9
+10,Maricarmen,Reyes Olvera,33,Maestría,Ingeniería,GC,fortran,mreyes@imp.mx,8,10
+11,Dennys Armando,López Falcón,51,Doctorado,Física,IY,Ninguno,dalopez@imp.mx,16,11
+12,Mikhail,Markov,67,Doctorado,Geofisico,GGC,Fortran,mmarkov@imp,21,12
+13,Manuel,Ortega Rocha,57,Licenciatura,Geólogo,IY,Python,mortega@imp.mx,29,13
+14,Marcos,Mondragon Bocanegra,56,Maestría,Ingeniería,GPDE,"C++, Basic, Fortran",mmondra@imp.mx,34,14
+15,Susana Ruth,Leyva Maldonado,54,Licenciatura,Física,ID,c#,srleyva@imp.mx,17,15
+16,Octavio,Cazarez Candia,53,Doctorado,Mecanico,RA,Fortran,ocazarez@imp.mx,20,16
+17,Oscar,Valdiviezo,55,Doctorado,Física,IY,Matlab,ovaldivi@imp.mx,17,17
+18,Alberto,Flores Roa,60,Maestría,Investigador,GHSPI,"Fortran, Basic y C",alflores@imp.mx,36,18
+19,Adriana,Ramos Velazquez,29,Licenciatura,Ingeniería,SE,Fortran y Matlab,5aramos@imp.mx,1,19
+20,Manuel,Coronado Gallardo,69,Doctorado,Física,YNF,"Fortran 4, Basic",mcoronad@imp.Mexicano,20,20
+21,Fermin,Leon Bello,59,Doctorado,Ingeniería,ID,"Fortan, C++, Basic",fleonb@imp.mx,22,21
+22,Dinorah Eloisa,Monroy Vázquez,44,Maestría,Ingeniería,ID,Un poco de Lenguaje Basic,dmonroy@imp.mx,3,22
+23,Daniel E.,Bolaños Rodríguez,43,Licenciatura,Geólogo,SE,Ninguno,dbolanos@imp.mx,10,23
+24,Enrique,Serrano Saldaña,49,Doctorado,Fisicoquimica,GSE,Ninguno,eserrano@imp.mx,25,24
+25,José Luis,Luna Arroyo,53,Maestría,Ingeniería,ID,Ninguno,jlluna@imp.mx,22,25
+26,Leopoldo,Gutierrez Caminero,38,Maestría,Geólogo,SE,Ninguno,lgutierrezc@imp.mx,8,26
+27,Carlos,Coutiño,37,Maestría,Ingeniería,GPyT,Ninguno,ccoutino@imp.mx,7,27
+28,Gonzalo Eduardo,Dominguez dyck,37,Doctorado,Ingeniería,HyS,"C, Matlab",gedominguez@imp.mx,4,28
+29,Ernesto,Cisneros,52,Maestría,Ingeniería,ID,Ninguno,ecsoto@imp.mx,22,29
+30,Rita,Torres jaime,46,Maestría,Licenciatura,ID,Ninguno,rtorresj@imp.mx,1,30
+31,Manuel Chi,"['Chi', 'Chim']",46,Licenciatura,Ciencias de la computación,PyT,"['C#', 'SQL']",machi@imp.mx,16,31
+32,Marcelino,López,49,Licenciatura,Ingeniería,IyS,Ninguno,mrclopez@imp.mx,22,32
+33,Pedro Fernando,Aguilar Gastelum,35,Doctorado,Ingeniería,GIRA,FORTRAN,pedro_00001@hotmail.com,5,33
+34,Arturo,Chavez,48,Licenciatura,Enlace Técnico-Administrativo,GGC,"Basic, Fortran y C",achavez@imp.mx,25,34
+35,Galicia Mabel,Acosta Garate,36,Maestría,Química,GPyT,Ninguno,gacosta@imp.mx,8,35
+36,Francisco,Silva,56,Doctorado,Ingeniería,GHSPI,"C, Fortran, Visual Basic, Matlab, Wolfram",flsilva@imp.mx,18,36
+37,Gustavo,Espinosa,233,Licenciatura,Ingeniería,PyT,Ninguno,gespinos@imp.mx,18,37
+38,Irina,Markova,62,Doctorado,Matemática,GC,FORTRAN,imarkova@imp.mx,11,38
+39,Ricardo,Islas Juárez,55,Licenciatura,Ingeniería,Soluciones en Explotación,Ninguno,rislasaimp.mx,30,39
+40,Tatiana,Kerdan Kurdaliova,61,Maestría,Ingeniería,GC,"matlab, R",tkerdan@imp.mx,24,40
+41,Ambrosio,Aquino_Lopez,53,Doctorado,Geofisico,GC,Fotran,aaquino@imp.mx,23,41
+42,Erick Emanuel,Luna Rojero,50,Doctorado,Física,IY,"Basic, Pascal, Fortran, c",eluna@imp.mx,23,42
